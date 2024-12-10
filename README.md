@@ -1,8 +1,6 @@
-I scraped companies from Google Maps.
-
-Some other companies that I found:
-https://www.iotnederland.nl/
-
-See the `.csv` for all the IT companies that I found. Sometimes there are duplicates in URl, that's a bug in my code, I do not have time to fix this yet. They are pretty obvious though.
-
-Google Maps also returned companies that are outside of south east Drenthe, I do not think I can change that.
+A script to scrape information from Google Maps. A step by step:
+- Go to https://www.google.com/maps
+- Do a search of your desire
+- Save the html file, in Chrome and Edge you can do this using `f12` (developer tools)
+- Use that file, or multiple of those files, as the input to the script in this repo
+- Follow the instructions in the script
