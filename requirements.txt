@@ -3,3 +3,4 @@ pandas
 requests
 re
 glob
+openpyxl
