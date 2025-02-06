@@ -1,6 +1,7 @@
 /*.html
 /*.csv
 /csv/*.csv
-/html/*.html
+/html/*
 /*.xlsx
-
+/*.zip
+/google_html/*.html
